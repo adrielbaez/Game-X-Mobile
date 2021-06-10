@@ -1,12 +1,17 @@
 # Game-X-Mobile
 
-Aplicación Mobile desarrollada con stack mern. E-commerce de videojuegos de variadas categorias y plataformas, donde la compra se simula con PayPal y Tarjetas de Debito/Credito.
+Version mobile de Game-X
 
-## Trabajo realizado
+# Instalar dependencias para el cliente
+npm install
 
-Una mobile app desarrollada en dos semanas, realizando dailies y meets durante todo el sprint, con la finalidad de poder lograr los objetivos requeridos del challenge para el bootcamp cursado en MindHub.
+# Correr la app
+expo start
 
-Para poder ver el trabajo final realizado puedes ingresar a: https://game-x-arg.herokuapp.com/
+# Visualizar la app
+Escanear codigo QR provisto en metro bundler en tu celular bajo app expo instalada previamente 
+o elegir opcion: run in browser. (puede que no este 100% optimizada ya que el navegador no 
+funciona de la misma manera que un dispositivo móvil)
 
 ## Construido con 🛠️
 
