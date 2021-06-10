@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Game-X",
+    "slug": "challenge3Native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/X-Game.png",
+    "splash": {
+      "image": "./assets/X-Game.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#15286d"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/X-Game.png",
+        "backgroundColor": "#15286d"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "androidNavigationBar":{
+      "visible":"immersive",
+      "barStyle":"light-content"
+    }
+  }
+}
