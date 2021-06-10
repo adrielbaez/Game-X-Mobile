@@ -2,13 +2,15 @@
 
 Version mobile de Game-X
 
-# Instalar dependencias para el cliente
+## Comenzando 🚀
+
+* Instalar dependencias para el cliente
 npm install
 
-# Correr la app
+* Correr la app
 expo start
 
-# Visualizar la app
+*Visualizar la app
 Escanear codigo QR provisto en metro bundler en tu celular bajo app expo instalada previamente 
 o elegir opcion: run in browser. (puede que no este 100% optimizada ya que el navegador no 
 funciona de la misma manera que un dispositivo móvil)
